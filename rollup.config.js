@@ -23,6 +23,6 @@ export default {
       output: 'bundle.css'
     }),
     html(),
-    image()
+    images()
   ]
 }
